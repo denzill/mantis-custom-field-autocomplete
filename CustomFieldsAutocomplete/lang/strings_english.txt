@@ -1,0 +1,4 @@
+<?php
+$s_plugin_CustomFieldsAutocomplete_title = 'Custom field with autocomplete';
+$s_plugin_CustomFieldsAutocomplete_description = 'Custom field with autocomplete.';
+$s_plugin_CustomFieldsAutocomplete_autocomplete = 'Custom field with autocomplete';

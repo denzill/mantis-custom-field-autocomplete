@@ -1,0 +1,4 @@
+<?php
+$s_plugin_CustomFieldsAutocomplete_title = 'Настраиваемое поле с автодополнением';
+$s_plugin_CustomFieldsAutocomplete_description = 'Настраиваемое поле с автодополнением.';
+$s_plugin_CustomFieldsAutocomplete_autocomplete = 'Поле с автодополнением';

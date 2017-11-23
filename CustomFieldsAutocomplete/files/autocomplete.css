@@ -1,0 +1,10 @@
+/* Disable stupid overflow */
+.table-responsive {
+    overflow: visible;
+}
+.custom-value{
+    width: 90%;
+    font-size: 14px;
+    border: 1px solid #D5D5D5;
+    padding: 5px 4px 6px;
+}
